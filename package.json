@@ -9,7 +9,11 @@
     "url": "https://github.com/artemave/37-pieces-of-flair"
   },
   "dependencies": {
-    "grunt-bump": "0.0.11"
+    "grunt-bump": "0.0.11",
+    "gm": "~1.14.2",
+    "pogo": "~0.6.5",
+    "request": "~2.34.0",
+    "tmp": "0.0.23"
   },
   "bugs": {
     "url": "https://github.com/artemave/37-pieces-of-flair/issues"

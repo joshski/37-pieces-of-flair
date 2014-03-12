@@ -1,0 +1,1 @@
+web: ./node_modules/.bin/pogo ./meta-flair/server.pogo
