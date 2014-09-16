@@ -35,6 +35,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/artemave/37-pieces-of-flair/v/unstable.svg)](//packagist.org/packages/artemave/37-pieces-of-flair)
 [![Total Downloads](https://poser.pugx.org/artemave/37-pieces-of-flair/downloads.svg)](https://packagist.org/packages/artemave/37-pieces-of-flair)
 [![License](https://poser.pugx.org/artemave/37-pieces-of-flair/license.svg)](https://packagist.org/packages/artemave/37-pieces-of-flair)
+[![SemVer](http://semver.org)
 [![HTML5](http://www.w3.org/html/logo/downloads/HTML5_Badge_32.png)](http://www.w3.org/TR/html5/)
 [![Internet Explorer](images/ie.gif?raw=true)](http://en.wikipedia.org/wiki/Internet_Explorer)
 [![Netscape Navigator](images/netscape.gif?raw=true)](http://en.wikipedia.org/wiki/Netscape_Navigator)
